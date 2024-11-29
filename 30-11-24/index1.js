@@ -34,30 +34,7 @@
 // // }
 
 
-// const students = [
-//     { name: "Anna", grade: 85 },
-//     { name: "Mariam", grade: 92 },
-//     { name: "Olivia", grade: 76 },
-//     { name: "Emma", grade: 59 },
-// ];
 
-// for (let i = 0; i < students.length; i++) {
-//     let student = students[i];
-    
-//     switch (true) {
-//         case student.grade >= 90:
-//             console.log(`${student.name}-Excellent`);
-//             break;
-//         case student.grade >= 75:
-//             console.log(`${student.name}-Good`);
-//             break;
-//         case student.grade >= 50:
-//             console.log(`${student.name}-Pass`);
-//             break;
-//         default:
-//             console.log(`${student.name}-Fail`);
-//     }
-// }
 
 //// switch case
 
